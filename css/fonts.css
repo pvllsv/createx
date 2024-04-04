@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Lato;
+    src: local("Lato"),
+         url(../fonts/AnyConv.com__Lato-Black.eot),
+         url(../fonts/AnyConv.com__Lato-Black.woff),
+         url(../fonts/AnyConv.com__Lato-Black.woff2);
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: Lato;
+    src: local("Lato"),
+         url(../fonts/AnyConv.com__Lato-Bold.eot),
+         url(../fonts/AnyConv.com__Lato-Bold.woff),
+         url(../fonts/AnyConv.com__Lato-Bold.woff2);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: Lato;
+    src: local("Lato"),
+         url(../fonts/AnyConv.com__Lato-Regular.eot),
+         url(../fonts/AnyConv.com__Lato-Regular.woff),
+         url(../fonts/AnyConv.com__Lato-Regular.woff2);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
